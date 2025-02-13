@@ -18,7 +18,7 @@ A **Flutter-based mobile application** that provides accurate and real-time weat
 Here are some screenshots of the app:
 
 - **Home Screen:**  
-  <img src="https://via.placeholder.com/300x600?text=Home+Screen" width="300" height="600" />
+  <img src"https://github.com/Sandy99098/Weather_App/blob/main/screenshots/Home%20Screen.png" width="300" height="600" />
   
 
 ---
