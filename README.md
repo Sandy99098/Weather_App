@@ -37,8 +37,8 @@ You will also need a weather API key to fetch data. You can obtain it from [Open
 ### Clone the Repository
 
 1. First, clone the repository:
-   ```bash
-   git clone https://github.com/YourUsername/weather_app.git
+   git clone https://github.com/sandy99098/weather_app.git
+   
 # Getting Started
 
 This project is a starting point for a Flutter application.
